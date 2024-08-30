@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "blueBerry",
+      "name": "블루베리",
+      "price": 9900,
+      "imgUrl": "https://src.hidoc.co.kr/image/lib/2021/6/2/1622621944401_0.jpg"
+    },
+    {
+      "id": "blueBerry",
+      "name": "딸기",
+      "price": 9900,
+      "imgUrl": "https://src.hidoc.co.kr/image/lib/2021/6/2/1622621944401_0.jpg"
+    },
+    {
+      "name": "키위",
+      "price": 2000,
+      "imgUrl": "jjj",
+      "id": "dbe76a9d-69c9-4ecf-ac8e-98d0c5199884"
+    }
+  ]
+}
